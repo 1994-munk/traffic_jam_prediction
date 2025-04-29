@@ -34,18 +34,24 @@ Machine learning models to predict traffic jams at specific times and locations
 
 Real-time prediction capabilities
 
-libraries
+📊 Technologies Used
 Python 🐍
 
-Pandas 📊, NumPy 🧮
+Pandas & NumPy for data handling
 
-Scikit-learn 🤖 (for machine learning)
+Scikit-learn for model training
 
-Matplotlib 🎨, Seaborn 📈 (for visualization)
+Matplotlib & Seaborn for EDA and visualization
 
-💡 What I Learned
-How to work with time-series data and traffic patterns
+Pickle for model saving/loading
 
-How to build machine learning models to predict real-world events like traffic congestion
+flask for integration 
 
-The importance of data preprocessing and feature engineering for accurate predictions
+💡 Project Highlights
+✔️ Trained a Linear Regression model for traffic prediction
+✔️ Performed full EDA and feature selection
+✔️ Saved model using pickle for easy reuse
+✔️ Ready for integration into a web app (Flask.)
+
+
+
